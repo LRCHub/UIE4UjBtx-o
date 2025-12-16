@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Dirty Deeds Done Dirt Cheap",
+  "base_artist": "AC/DC",
+  "createdAt": "2025-12-16T07:39:17.972299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "acdcVEVO",
+      "has_synced": true,
+      "path": "select/01_Dirty_Deeds_Done_Dirt_Cheap_acdcVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "ACDC",
+      "has_synced": true,
+      "path": "select/02_Dirty_Deeds_Done_Dirt_Cheap_ACDC.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC",
+      "has_synced": true,
+      "path": "select/03_Dirty_Deeds_Done_Dirt_Cheap_AC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC",
+      "has_synced": true,
+      "path": "select/04_Dirty_Deeds_Done_Dirt_Cheap_AC.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "ACDC",
+      "has_synced": true,
+      "path": "select/05_Dirty_Deeds_Done_Dirt_Cheap_ACDC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "ACDC",
+      "has_synced": true,
+      "path": "select/06_Dirty_Deeds_Done_Dirt_Cheap_ACDC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC",
+      "has_synced": true,
+      "path": "select/07_Dirty_Deeds_Done_Dirt_Cheap_AC.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "70s05",
+      "has_synced": true,
+      "path": "select/08_Dirty_Deeds_Done_Dirt_Cheap_70s05.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/09_Dirty_Deeds_Done_Dirt_Cheap_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap (Explicit)",
+      "artist": "ACDC",
+      "has_synced": true,
+      "path": "select/10_Dirty_Deeds_Done_Dirt_Cheap_(Explicit)_ACDC.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/11_Dirty_Deeds_Done_Dirt_Cheap_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/12_Dirty_Deeds_Done_Dirt_Cheap_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/13_Dirty_Deeds_Done_Dirt_Cheap_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC",
+      "has_synced": true,
+      "path": "select/14_Dirty_Deeds_Done_Dirt_Cheap_AC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap (live)",
+      "artist": "AC",
+      "has_synced": true,
+      "path": "select/15_Dirty_Deeds_Done_Dirt_Cheap_(live)_AC.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap (live)",
+      "artist": "AC",
+      "has_synced": true,
+      "path": "select/16_Dirty_Deeds_Done_Dirt_Cheap_(live)_AC.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC-DC",
+      "has_synced": true,
+      "path": "select/17_Dirty_Deeds_Done_Dirt_Cheap_AC-DC.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dirty Deeds (Done Dirt Cheap)",
+      "artist": "AC",
+      "has_synced": true,
+      "path": "select/18_Dirty_Deeds_(Done_Dirt_Cheap)_AC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dirty Deeds Done Dirt Cheap",
+      "artist": "AC/DC",
+      "has_synced": false,
+      "path": "select/pl_01_Dirty_Deeds_Done_Dirt_Cheap_AC_DC.txt"
+    }
+  ]
+}
